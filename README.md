@@ -1,6 +1,5 @@
 <h1>👋 Welcome to My GitHub Profile!✨ </h1>
-
-<img align="center" src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1"></img>
+<img src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif"></img>
 
 <h2>About Me</h2>
   <p>I'm a passionate <strong>Frontend Web Developer</strong> with a keen interest in creating engaging and functional user interfaces. My experience in web development was to build responsive and dynamic web applications. Recently, I have started exploring the fields of <strong>Data Science</strong> and <strong>Data Analytics</strong>, since April 2024. I have been learning in these areas.</p>
